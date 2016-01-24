@@ -69,7 +69,7 @@ gulp.task('app-css', function() {
     .pipe(sourcemaps.init())
     .on('error', errorlog)
     .pipe(sourcemaps.write('./maps'))
-    .pipe(gulp.dest('app/assets/css/'))
+    .pipe(gulp.dest('assets/css/'))
 });
 
 /** Development watch */

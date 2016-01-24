@@ -1,0 +1,13 @@
+*.cache
+*.node-gyp
+*.npm
+*.scssc
+.DS_Store
+.sass-cache
+.bash_history
+.bowerrc
+node_modules
+bower_components
+npm-debug.log
+
+templateCache.js

@@ -1,0 +1,11 @@
+{
+  "name": "leongaban-9",
+  "version": "9.0.0",
+  "description": "Leon Gaban's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@leongaban",
+  "license": "ISC"
+}

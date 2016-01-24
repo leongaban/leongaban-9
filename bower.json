@@ -1,0 +1,21 @@
+{
+  "name": "leongaban-9",
+  "authors": [
+    "leongaban <leongaban@gmail.com>"
+  ],
+  "description": "Blog",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://leongaban.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-smacss": "~0.2.3"
+  }
+}

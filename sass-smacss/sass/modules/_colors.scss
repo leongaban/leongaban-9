@@ -1,0 +1,27 @@
+/* Colors module
+============================================================
+========================================================= */
+
+/* Primary */
+$green:         #00D88C;
+$green0:        #ccf7e8;
+$red:           #FF6565;
+$blue:          #4C73FF;
+$tan:           #F7F3ED;
+
+/* Grays */
+$gray5:         #3D3D3D;
+$gray4:         #656565;
+$gray3:         #868686;
+$gray2:         #BFBFBF;
+$gray1:         #F0F0F0;
+$gray0:         #FAFAFA;
+
+// Brands
+$facebook: 		#438acb;
+$twitter: 		#5cbde9;
+
+// Elements
+$body: 			#fff;
+$button: 		$blue;
+$buttonHover:	lighten($blue, 10%);

@@ -1,0 +1,16 @@
+/* Header
+============================================================
+========================================================= */
+.main-head {
+    margin: 0 auto;
+    padding: 20px;
+    width: 800px;
+
+    h1 {
+        font-weight: 700;
+        margin-bottom: 5px;
+        font-size: em(32);
+    }
+
+    h2 { font-size: em(14); }
+}

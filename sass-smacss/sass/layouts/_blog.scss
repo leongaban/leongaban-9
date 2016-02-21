@@ -1,0 +1,38 @@
+.content-area {
+    margin: 0 auto;
+    width: 800px;
+
+    // header { padding: 0 20px; }
+
+    h1 { font-size: em(24); }
+}
+
+.blog-snippet {
+    margin-bottom: 20px;
+    padding: 20px 0 10px 0;
+    // background: $gray1;
+    @include clearfix();
+}
+
+.blog-summary {
+    @include clearfix();
+    p {
+        // padding: 0 20px;
+        margin: 15px 0;
+        font-size: em(14);
+        line-height: 18px;
+    }
+}
+
+.read-more {
+    float: right;
+    margin-right: 15px;
+    padding: 5px 10px;
+    font-size: em(13);
+    background: $gray0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px dotted $gray3;
+    @include rounded(4px);
+}

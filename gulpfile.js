@@ -62,7 +62,7 @@ function printOut(ver) {
 /** Main Styles */
 /** ------------------------------------------------------------------------- */
 gulp.task('app-css', function() {
-    return sass('bower_components/sass-smacss/sass/leongaban9.scss', {
+    return sass('sass-smacss/sass/leongaban9.scss', {
         // noCache: true,
         style: 'compressed'
     })

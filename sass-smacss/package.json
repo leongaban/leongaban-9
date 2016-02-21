@@ -1,12 +1,17 @@
 {
-  "name": "leongaban-9",
-  "version": "9.0.0",
-  "description": "Leon Gaban's blog",
-  "main": "index.js",
+  "name": "MyProject",
+  "version": "0.2.3",
+  "description": "",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "@leongaban",
+  "keywords": [
+    "sass"
+  ],
+  "authors": [
+    "Name <email>"
+  ],
   "license": "ISC",
   "devDependencies": {
     "del": "^1.1.1",
@@ -19,9 +24,8 @@
     "gulp-if": "^1.2.5",
     "gulp-ruby-sass": "^1.0.0-alpha.3",
     "gulp-sourcemaps": "^1.5.0",
-    "gulp-strip-debug": "^1.0.2",
     "gulp-uglify": "^1.1.0",
-    "gulp-util": "^3.0.6",
+    "gulp-util": "^3.0.4",
     "run-sequence": "^1.0.2",
     "streamqueue": "^0.1.3"
   }

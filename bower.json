@@ -16,6 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "sass-smacss": "~0.2.3"
+    "sass-smacss": "~0.2.3",
+    "es6-shim": "^0.34.4",
+    "lodash": "^4.5.0"
   }
 }
